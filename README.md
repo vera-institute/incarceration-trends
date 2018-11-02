@@ -24,8 +24,6 @@ For more information on In Our Backyards, see http://vera.org/backyards.
 
 The data is distributed as a single CSV file, available [here](https://github.com/vera-institute/incarceration_trends/blob/master/incarceration_trends.csv?raw=true).
 
-If you have questions, please contact Vera at <trends@vera.org> or Jacob Kang-Brown by mail at 233 Broadway, 12th Floor, New York, NY 10279.
-
 ## Documentation
  [Codebook](https://github.com/vera-institute/incarceration_trends/blob/master/IOB-Codebook.pdf?raw=true)
 
@@ -34,7 +32,9 @@ If you have questions, please contact Vera at <trends@vera.org> or Jacob Kang-Br
 - [Jail data methodology](https://github.com/vera-institute/incarceration_trends/blob/master/Methodology-for-Incarceration-Trends-Project-V2.pdf?raw=true).
 - [Prison data methodology](https://github.com/vera-institute/incarceration_trends/blob/master/Workingpaper_Reconstructing-How-Counties-Contribute-to-State-Prisons.pdf?raw=true).
 
-## Acknowledgements
+## Endmatter
+
+If you have questions, please contact Vera at <trends@vera.org> or Jacob Kang-Brown by mail at 233 Broadway, 12th Floor, New York, NY 10279.
 
 The Vera Institute of Justice works to build and create justice systems that ensure fairness, promote safety, and strengthen communities.
 
