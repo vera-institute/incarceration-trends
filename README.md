@@ -41,4 +41,4 @@ The Vera Institute of Justice works to build and create justice systems that ens
 
 The development of the public-use county-level incarceration dataset is funded through the In Our Backyards project by Google.org as part of its Inclusion and Racial Justice work. In Our Backyards is a Vera's research and communications agenda to inform the public dialogue, advance research, and guide change to justice policy and practice on mass incarceration.
 
-Photo credit: Jack Norton. Huerfano County Correctional Facility, built in 1997 and operated as a private prison by Corrections Corporation of America. Closed in 2010.
+Photo credit: Jack Norton. Huerfano County Correctional Facility, built in 1997 and operated as a private prison by Corrections Corporation of America. Closed in 2010. A funding request to re-open the facility by Colorado Department of Corrections was denied by the state in 2018.
