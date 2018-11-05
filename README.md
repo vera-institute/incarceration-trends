@@ -35,7 +35,7 @@ The data is distributed as a single CSV file, available [here](https://github.co
 
 ## License
 
-By downloading the Dataset, you hereby agree to all of the terms specified in this [license](https://github.com/vera-institute/incarceration_trends/blob/master/License.md). 
+By downloading the data, you hereby agree to all of the terms specified in this [license](https://github.com/vera-institute/incarceration_trends/blob/master/License.md). 
 
 ## Endmatter
 
