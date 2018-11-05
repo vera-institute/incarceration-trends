@@ -30,7 +30,7 @@ For those planning to use this file in a spreadsheet program like Microsoft Exce
 
 
 ## Documentation
- [Codebook](https://github.com/vera-institute/incarceration_trends/blob/master/IOB-Codebook.pdf?raw=true)
+ [Codebook](https://github.com/vera-institute/incarceration_trends/blob/master/incarceration_trends-Codebook.pdf?raw=true)
 
 ## Methodology
 
