@@ -1,17 +1,18 @@
 ![Vera Institute of Justice Logo](https://github.com/vera-institute/incarceration_trends/blob/master/img/vera-logo.png?raw=true)
 
 Vera Institute of Justice
+
 233 Broadway, 12th Fl. 
+
 New York, NY 10279	 
-t 212 334 1300 	
-f 212 941 9407 	
-vera.org
+
+https://www.vera.org
 
 # Data Access License Terms 
 
 This agreement (“Agreement”) is entered into between the Vera Institute of Justice, Inc. (“Vera”) and the individual(s) (each a “Recipient”) who download the Incarceration Trends Dataset (the “Dataset”).
 
-Vera has developed and owns the Dataset, a collection of jail population and prison statistics that contains 45 years (1970-2015) of data for each of the approximately 3,000 counties that use a county jail (see the Dataset Github page for complete detail on the source datasets at (https://github.com/vera-institute/incarceration_trends)). The Dataset was compiled by Vera staff using publicly available BJS data sourced through ICPSR. Vera is willing to grant Recipient access to the Dataset on the following terms: 
+Vera has developed and owns the Dataset, a collection of jail population and prison statistics that contains 45 years (1970-2015) of data for each of the approximately 3,000 counties that use a county jail (see the Dataset Github page for complete detail on the source datasets at https://github.com/vera-institute/incarceration_trends). The Dataset was compiled by Vera staff using publicly available BJS data sourced through ICPSR. Vera is willing to grant Recipient access to the Dataset on the following terms: 
 
 ## 1. Limited License
 By downloading the Dataset, you hereby agree to all of the terms specified in this license.  Vera hereby grants to Recipient the limited right to use the Dataset for Recipient’s own academic, nonprofit, and research purposes. The Recipient may not use the Dataset for any commercial or profit-making purpose. Recipient may only use the Dataset in accordance with this Agreement. Vera retains all right, title, and interest in and to the Dataset, and does not grant any rights in the Dataset other than as specified herein. 
