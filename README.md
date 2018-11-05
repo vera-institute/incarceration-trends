@@ -19,11 +19,15 @@ In 2018, through the In Our Backyards grant from Google.org, Vera completed work
 
 Research on incarceration has traditionally centered on state-level data: specifically state prison populations or the statewide combined prison and jail population. Using the state as the unit of analysis is sufficient for understanding the broad contours of incarceration in the United States, but it does not provide the level of detail necessary to unpack its causes and consequences. This is because it is largely county officials-judges, prosecutors, people who manage jails-that decide how communities use incarceration (i.e., who is sent to jail and prison, and for how long). Therefore, county-level variability makes for more robust, theoretically-grounded studies of the high rates of incarceration seen across the United States.
 
-For more information on In Our Backyards, see http://vera.org/backyards.
+For more information on In Our Backyards, see http://www.vera.org/backyards.
 
 ## Data
 
 The data is distributed as a single CSV file, available [here](https://github.com/vera-institute/incarceration_trends/blob/master/incarceration_trends.csv?raw=true).
+
+For those planning to use this file in a spreadsheet program like Microsoft Excel you may want to follow these instructions: right-click the data link. Select "Save link as..." Type ".csv" after the filename "incarceration_trends". 
+
+
 
 ## Documentation
  [Codebook](https://github.com/vera-institute/incarceration_trends/blob/master/IOB-Codebook.pdf?raw=true)
