@@ -33,6 +33,10 @@ The data is distributed as a single CSV file, available [here](https://github.co
 - [Jail data methodology](https://github.com/vera-institute/incarceration_trends/blob/master/Methodology-for-Incarceration-Trends-Project-V2.pdf?raw=true).
 - [Prison data methodology](https://github.com/vera-institute/incarceration_trends/blob/master/Workingpaper_Reconstructing-How-Counties-Contribute-to-State-Prisons.pdf?raw=true).
 
+## License
+
+By downloading the Dataset, you hereby agree to all of the terms specified in this [license](https://github.com/vera-institute/incarceration_trends/blob/master/License.md). 
+
 ## Endmatter
 
 If you have questions, please contact Vera at <trends@vera.org> or Jacob Kang-Brown by mail at 233 Broadway, 12th Floor, New York, NY 10279.
