@@ -23,11 +23,7 @@ For more information on In Our Backyards, see http://www.vera.org/backyards.
 
 ## Data
 
-The data is distributed as a single CSV file, available [here](https://github.com/vera-institute/incarceration_trends/blob/master/incarceration_trends.csv?raw=true).
-
-For those planning to use this file in a spreadsheet program like Microsoft Excel you may want to follow these instructions: right-click the data link. Select "Save link as..." Type ".csv" after the filename "incarceration_trends". 
-
-
+The data is distributed as a single file, available in  [CSV](https://github.com/vera-institute/incarceration_trends/blob/master/incarceration_trends.csv?raw=true) or [Excel](https://github.com/vera-institute/incarceration_trends/blob/master/incarceration_trends.xlsx?raw=true) format.
 
 ## Documentation
  [Codebook](https://github.com/vera-institute/incarceration_trends/blob/master/incarceration_trends-Codebook.pdf?raw=true)
@@ -39,7 +35,7 @@ For those planning to use this file in a spreadsheet program like Microsoft Exce
 
 ## License
 
-By downloading the data, you hereby agree to all of the terms specified in this [license](https://github.com/vera-institute/incarceration_trends/blob/master/License.md). 
+By downloading the data, you hereby agree to all of the terms specified in this [license](https://github.com/vera-institute/incarceration_trends/blob/master/License.md).
 
 ## Endmatter
 
