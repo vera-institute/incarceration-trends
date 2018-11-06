@@ -19,19 +19,27 @@ In 2018, through the In Our Backyards grant from Google.org, Vera completed work
 
 Research on incarceration has traditionally centered on state-level data: specifically state prison populations or the statewide combined prison and jail population. Using the state as the unit of analysis is sufficient for understanding the broad contours of incarceration in the United States, but it does not provide the level of detail necessary to unpack its causes and consequences. This is because it is largely county officials-judges, prosecutors, people who manage jails-that decide how communities use incarceration (i.e., who is sent to jail and prison, and for how long). Therefore, county-level variability makes for more robust, theoretically-grounded studies of the high rates of incarceration seen across the United States.
 
-For more information on In Our Backyards, see http://vera.org/backyards.
+For more information on In Our Backyards, see http://www.vera.org/backyards.
 
 ## Data
 
 The data is distributed as a single CSV file, available [here](https://github.com/vera-institute/incarceration_trends/blob/master/incarceration_trends.csv?raw=true).
 
+For those planning to use this file in a spreadsheet program like Microsoft Excel you may want to follow these instructions: right-click the data link. Select "Save link as..." Type ".csv" after the filename "incarceration_trends". 
+
+
+
 ## Documentation
- [Codebook](https://github.com/vera-institute/incarceration_trends/blob/master/IOB-Codebook.pdf?raw=true)
+ [Codebook](https://github.com/vera-institute/incarceration_trends/blob/master/incarceration_trends-Codebook.pdf?raw=true)
 
 ## Methodology
 
 - [Jail data methodology](https://github.com/vera-institute/incarceration_trends/blob/master/Methodology-for-Incarceration-Trends-Project-V2.pdf?raw=true).
 - [Prison data methodology](https://github.com/vera-institute/incarceration_trends/blob/master/Workingpaper_Reconstructing-How-Counties-Contribute-to-State-Prisons.pdf?raw=true).
+
+## License
+
+By downloading the data, you hereby agree to all of the terms specified in this [license](https://github.com/vera-institute/incarceration_trends/blob/master/License.md). 
 
 ## Endmatter
 
@@ -41,4 +49,4 @@ The Vera Institute of Justice works to build and create justice systems that ens
 
 The development of the public-use county-level incarceration dataset is funded through the In Our Backyards project by Google.org as part of its Inclusion and Racial Justice work. In Our Backyards is a Vera's research and communications agenda to inform the public dialogue, advance research, and guide change to justice policy and practice on mass incarceration.
 
-Photo credit: Jack Norton. Huerfano County Correctional Facility, built in 1997 and operated as a private prison by Corrections Corporation of America. Closed in 2010.
+Photo credit: Jack Norton. Huerfano County Correctional Facility, built in 1997 and operated as a private prison by Corrections Corporation of America. Closed in 2010. A funding request to re-open the facility by Colorado Department of Corrections was denied by the state in 2018.
