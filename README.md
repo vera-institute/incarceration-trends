@@ -39,7 +39,7 @@ By downloading the data, you hereby agree to all of the terms specified in this 
 
 ## Endmatter
 
-If you have questions, please contact Vera at <trends@vera.org> or Jacob Kang-Brown by mail at 233 Broadway, 12th Floor, New York, NY 10279.
+If you have questions, please contact Vera at <trends@vera.org> or Jacob Kang-Brown by mail at 34 35th Street, Suite 4-2A Brooklyn, NY 11232.
 
 The Vera Institute of Justice works to build and create justice systems that ensure fairness, promote safety, and strengthen communities.
 
