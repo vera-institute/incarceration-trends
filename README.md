@@ -23,7 +23,9 @@ For more information on In Our Backyards, see http://www.vera.org/backyards.
 
 ## Data
 
-The data is distributed as a single file, available in  [CSV](https://github.com/vera-institute/incarceration_trends/blob/master/incarceration_trends.csv?raw=true) or [Excel](https://github.com/vera-institute/incarceration_trends/blob/master/incarceration_trends.xlsx?raw=true) format.
+The county-level data file is available in  [CSV](https://github.com/vera-institute/incarceration_trends/blob/master/incarceration_trends.csv?raw=true) or [Excel](https://github.com/vera-institute/incarceration_trends/blob/master/incarceration_trends.xlsx?raw=true) format.
+
+As is the jurisdiction-level data file:  [CSV](https://github.com/vera-institute/incarceration_trends/blob/master/incarceration_trends_jail_jurisdiction.csv?raw=true) or [Excel](https://github.com/vera-institute/incarceration_trends/blob/master/incarceration_trends_jail_jurisdiction.xlsx?raw=true) format.
 
 ## Documentation
  [Codebook](https://github.com/vera-institute/incarceration_trends/blob/master/incarceration_trends-Codebook.pdf?raw=true)
