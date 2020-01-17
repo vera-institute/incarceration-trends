@@ -8,7 +8,10 @@ County- and jurisdiction-level jail data (1970-2015) and prison data (1983-2017)
 ## Project History
 In December 2015, Vera released the Incarceration Trends data tool (http://trends.vera.org) and the companion publication [In Our Own Backyard: Confronting Growth and Disparities in American Jails](https://www.vera.org/publications/in-our-own-backyard-confronting-growth-and-disparities-in-american-jails). This work employed two Bureau of Justice Statistics (BJS) data collections: the Census of Jails (COJ), which covers all jails and is conducted every five to eight years since 1970, and the Annual Survey of Jails (ASJ), which covers about one-third of jails-and includes nearly all of the largest jails-that has been conducted in non-census years since 1982. This project was funded by the Robert W. Wilson Charitable Trust.
 
-In 2016-2018, through a grant from the MacArthur Foundation Safety and Justice Challenge, Vera updated the data tool to include newly released data from the 2013 COJ and 2015 ASJ and developed four publications:
+In 2016-2020, through a grant from the MacArthur Foundation Safety and
+Justice Challenge, Vera updated the data tool to include newly
+released data from the 2013 COJ and 2014, 2015, 2016, and 2017 ASJ and
+developed four publications:
 
 * [Overlooked: Women and Jails in an Era of Reform](https://www.vera.org/publications/overlooked-women-and-jails-report)
 * [Out of Sight: The Growth of Jails in Rural America](https://www.vera.org/publications/out-of-sight-growth-of-jails-rural-america)
