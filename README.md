@@ -1,7 +1,7 @@
 ![Vera Institute of Justice Logo](https://github.com/vera-institute/incarceration_trends/blob/master/img/vera-logo.png?raw=true)
 
 # Incarceration Trends Dataset
-County-level jail data (1970-2015) and prison data (1983-2015)
+County- and jurisdiction-level jail data (1970-2015) and prison data (1983-2017)
 
 ![Image: Huerfano County Correctional Facility, built in 1997 and operated as a private prison by Corrections Corporation of America. Closed in 2010.](https://github.com/vera-institute/incarceration_trends/blob/master/img/iob-cfp-banner.jpg?raw=true)
 
@@ -15,7 +15,8 @@ In 2016-2018, through a grant from the MacArthur Foundation Safety and Justice C
 * [Divided Justice: Trends in Black and White Incarceration 1990-2013](https://www.vera.org/publications/divided-justice-black-white-jail-incarceration)
 * [The New Dynamics of Mass Incarceration](https://www.vera.org/publications/the-new-dynamics-of-mass-incarceration)
 
-In 2018, through the In Our Backyards grant from Google.org, Vera completed work on a companion county-level prison dataset, examined in The New Dynamics of Mass Incarceration, that drew on the BJS [National Corrections Reporting Program](http://ncrp.info/) (NCRP) data collection. Vera then merged this data with the original jails dataset to produce a first-in-kind national dataset that can examine both jail and prison incarceration at the county level.
+In 2020, through the In Our Backyards grant from Google.org, Vera
+completed work on a companion county-level dataset, examined in The New Dynamics of Mass Incarceration, that drew on the BJS [National Corrections Reporting Program](http://ncrp.info/) (NCRP) data collection. Vera then merged this data with the original jails dataset to produce a first-in-kind national dataset that can examine both jail and prison incarceration at the county level.
 
 Research on incarceration has traditionally centered on state-level data: specifically state prison populations or the statewide combined prison and jail population. Using the state as the unit of analysis is sufficient for understanding the broad contours of incarceration in the United States, but it does not provide the level of detail necessary to unpack its causes and consequences. This is because it is largely county officials-judges, prosecutors, people who manage jails-that decide how communities use incarceration (i.e., who is sent to jail and prison, and for how long). Therefore, county-level variability makes for more robust, theoretically-grounded studies of the high rates of incarceration seen across the United States.
 
@@ -45,6 +46,6 @@ If you have questions, please contact Vera at <trends@vera.org> or Jacob Kang-Br
 
 The Vera Institute of Justice works to build and create justice systems that ensure fairness, promote safety, and strengthen communities.
 
-The development of the public-use county-level incarceration dataset is funded through the In Our Backyards project by Google.org as part of its Inclusion and Racial Justice work. In Our Backyards is a Vera's research and communications agenda to inform the public dialogue, advance research, and guide change to justice policy and practice on mass incarceration.
+The development of the public-use county- and jurisdiction-level incarceration dataset is funded through the In Our Backyards project by Google.org as part of its Inclusion and Racial Justice work. In Our Backyards is a Vera's research and communications agenda to inform the public dialogue, advance research, and guide change to justice policy and practice on mass incarceration.
 
 Photo credit: Jack Norton. Huerfano County Correctional Facility, built in 1997 and operated as a private prison by Corrections Corporation of America. Closed in 2010. A funding request to re-open the facility by Colorado Department of Corrections was denied by the state in 2018.
