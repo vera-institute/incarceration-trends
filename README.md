@@ -30,7 +30,7 @@ The data is distributed as a single file, available in  [CSV](https://github.com
 
 ## Methodology
 
-- [Jail data methodology](https://github.com/vera-institute/incarceration_trends/blob/master/Methodology-for-Incarceration-Trends-Project-V2.pdf?raw=true).
+- [Jail data methodology](https://github.com/vera-institute/incarceration_trends/blob/master/Methodology-for-Incarceration-Trends-Project.pdf?raw=true).
 - [Prison data methodology](https://github.com/vera-institute/incarceration_trends/blob/master/Workingpaper_Reconstructing-How-Counties-Contribute-to-State-Prisons.pdf?raw=true).
 
 ## License
