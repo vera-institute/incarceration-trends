@@ -1,7 +1,7 @@
 ![Vera Institute of Justice Logo](https://github.com/vera-institute/incarceration_trends/blob/master/img/vera-logo.png?raw=true)
 
 # Incarceration Trends Dataset
-County- and jurisdiction-level jail data (1970-2018) and prison data (1983-2016)
+County- and jurisdiction-level jail data (1970-2018) and prison data (1983-2016). State-level prison data (2019-2021).
 
 ![Image: Huerfano County Correctional Facility, built in 1997 and operated as a private prison by Corrections Corporation of America. Closed in 2010.](https://github.com/vera-institute/incarceration_trends/blob/master/img/iob-cfp-banner.jpg?raw=true)
 
@@ -27,6 +27,7 @@ Research on incarceration has traditionally centered on state-level data: specif
 For more information on In Our Backyards, see http://www.vera.org/backyards.
 
 ## Data
+Updated state level prison populations, published in the latest [People in Prison report] (https://www.vera.org/publications/people-in-prison-in-winter-2021-22) for year-end 2021 are availabe in [CSV] (https://github.com/vera-institute/incarceration_trends/blob/master/year-end-prison-2021.csv) format.  
 
 The county-level data file is available in  [CSV](https://github.com/vera-institute/incarceration_trends/blob/master/incarceration_trends.csv?raw=true) or [Excel](https://github.com/vera-institute/incarceration_trends/blob/master/incarceration_trends.xlsx?raw=true) format.
 
