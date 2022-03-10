@@ -27,7 +27,7 @@ Research on incarceration has traditionally centered on state-level data: specif
 For more information on In Our Backyards, see http://www.vera.org/backyards.
 
 ## Data
-Updated state level prison populations, published in the latest [People in Prison report] (https://www.vera.org/publications/people-in-prison-in-winter-2021-22) for year-end 2021 are availabe in [CSV] (https://github.com/vera-institute/incarceration_trends/blob/master/year-end-prison-2021.csv) format.  
+Updated state level prison populations, published in the latest [People in Prison report](https://www.vera.org/publications/people-in-prison-in-winter-2021-22) for year-end 2021 are availabe in [CSV](https://github.com/vera-institute/incarceration_trends/blob/master/year-end-prison-2021.csv) format.  
 
 The county-level data file is available in  [CSV](https://github.com/vera-institute/incarceration_trends/blob/master/incarceration_trends.csv?raw=true) or [Excel](https://github.com/vera-institute/incarceration_trends/blob/master/incarceration_trends.xlsx?raw=true) format.
 
