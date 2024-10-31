@@ -31,7 +31,7 @@ For more information on In Our Backyards, see http://www.vera.org/backyards.
 ## Data
 Jail construction project data from 2002-2022 is available in [CSV](https://github.com/vera-institute/incarceration_trends/blob/main/incarceration_trends_jail_construction.csv) format. 
 
-Updated state level prison populations, published in the latest [People in Prison report](https://www.vera.org/publications/people-in-prison-in-winter-2021-22) for year-end 2021 are availabe in [CSV](https://github.com/vera-institute/incarceration_trends/blob/main/year-end-prison-2021.csv) format.  
+Updated numbers of people in local jail or state and federal prison, published in the latest [People in Jail and Prison report](https://www.vera.org/publications/people-in-jail-and-prison-in-2024) for spring 2024 are availabe in [Excel](https://github.com/vera-institute/incarceration_trends/blob/main/People-in-Jail-and-Prison-in-2024) format.  
 
 The county-level data file is available in  [CSV](https://github.com/vera-institute/incarceration_trends/blob/main/incarceration_trends.csv?raw=true) or [Excel](https://github.com/vera-institute/incarceration_trends/blob/main/incarceration_trends.xlsx?raw=true) format.
 
