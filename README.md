@@ -1,7 +1,7 @@
 ![Vera Institute of Justice Logo](https://github.com/vera-institute/incarceration_trends/blob/main/img/vera-logo.png?raw=true)
 
 # Incarceration Trends Dataset
-County- and jurisdiction-level jail data (1970-2018) and prison data (1983-2016). State-level prison data (2019-2021). Jail construction data (2002-2022).
+County- and jurisdiction-level jail data (1970-2018) and prison data (1983-2016). State-level prison data (2021-2024). Jail construction data (2002-2022).
 
 ![Image: Huerfano County Correctional Facility, built in 1997 and operated as a private prison by Corrections Corporation of America. Closed in 2010.](https://github.com/vera-institute/incarceration_trends/blob/main/img/iob-cfp-banner.jpg?raw=true)
 
@@ -39,6 +39,8 @@ As is the jurisdiction-level data file:  [CSV](https://github.com/vera-institute
 
 ## Documentation
  [Codebook](https://github.com/vera-institute/incarceration_trends/blob/main/incarceration_trends-Codebook.pdf?raw=true)
+
+ [Jail construction codebook](https://github.com/vera-institute/incarceration_trends/blob/main/jail_construction_codebook.pdf?raw=true)
 
 ## Methodology
 
