@@ -22,7 +22,7 @@ In 2019, through a grant from Arnold Ventures, Vera updated the dataset (Version
 
 In September 2020, Vera produced an updated dataset (version 2.2) with 2018 ASJ data that was released in 2020. This version included improved estimates for some earlier data as well. 
 
-In October 2024, Vera produced a dataset with information on jail construction projects.  
+In October 2024, Vera produced a dataset with information on jail construction projects. Vera researchers collected information on jail construction projects and proposals across the United States from 2002 to 2022, including the cost and size of the project and whether it was an expansion or a new jail construction. Vera also tracked whether the proposals failed, passed, or were still pending. The research team validated this data through official documents, media sources, public records requests, and phone calls with local jurisdictions. 
 
 Research on incarceration has traditionally centered on state-level data: specifically state prison populations or the statewide combined prison and jail population. Using the state as the unit of analysis is sufficient for understanding the broad contours of incarceration in the United States, but it does not provide the level of detail necessary to unpack its causes and consequences. This is because it is largely county officials-judges, prosecutors, people who manage jails-that decide how communities use incarceration (i.e., who is sent to jail and prison, and for how long). Therefore, county-level variability makes for more robust, theoretically-grounded studies of the high rates of incarceration seen across the United States.
 
