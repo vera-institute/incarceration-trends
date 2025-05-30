@@ -39,11 +39,11 @@ The county-level data file is available in  [CSV](https://github.com/vera-instit
 As is the state-level data file:  [CSV](https://github.com/vera-institute/incarceration_trends/blob/main/incarceration_trends_state.csv?raw=true) or [Excel](https://github.com/vera-institute/incarceration_trends/blob/main/incarceration_trends_state.xlsx?raw=true) format.
 
 ## Documentation
- [Codebook](https://github.com/vera-institute/incarceration_trends/blob/main/Incarceration%20Trends%20Codebook%2005-2025.pdf?raw=true)
+ [2025 Codebook](https://github.com/vera-institute/incarceration_trends/blob/main/Incarceration%20Trends%20Codebook%2005-2025.pdf?raw=true)
 
  [Jail construction codebook](https://github.com/vera-institute/incarceration_trends/blob/main/jail_construction_codebook.pdf?raw=true)
 
-- [Prison data methodology](https://github.com/vera-institute/incarceration_trends/blob/main/Workingpaper_Reconstructing-How-Counties-Contribute-to-State-Prisons.pdf?raw=true).
+[Supplemental prison data methodology](https://github.com/vera-institute/incarceration_trends/blob/main/Workingpaper_Reconstructing-How-Counties-Contribute-to-State-Prisons.pdf?raw=true)
 
 ## License
 
