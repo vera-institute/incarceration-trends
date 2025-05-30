@@ -1,7 +1,7 @@
 ![Vera Institute of Justice Logo](https://github.com/vera-institute/incarceration_trends/blob/main/img/vera-logo.png?raw=true)
 
 # Incarceration Trends Dataset
-County- and jurisdiction-level jail data (1970-2018) and prison data (1983-2016). State-level prison data (2021-2024). Jail construction data (2002-2022).
+County-level jail data (1970-2024) and prison data (1983-2019). State-level prison data (2021-2024). Jail construction data (2002-2022).
 
 ![Image: Huerfano County Correctional Facility, built in 1997 and operated as a private prison by Corrections Corporation of America. Closed in 2010.](https://github.com/vera-institute/incarceration_trends/blob/main/img/iob-cfp-banner.jpg?raw=true)
 
@@ -24,27 +24,25 @@ In September 2020, Vera produced an updated dataset (version 2.2) with 2018 ASJ 
 
 In October 2024, Vera produced a dataset with information on jail construction projects. Vera researchers collected information on jail construction projects and proposals across the United States from 2002 to 2022, including the cost and size of the project and whether it was an expansion or a new jail construction. Vera also tracked whether the proposals failed, passed, or were still pending. The research team validated this data through official documents, media sources, public records requests, and phone calls with local jurisdictions. 
 
+In May 2025, Vera released updated county and state files (version 3) using updated versions of the BJI data supplemented by new data collected through state and local sources. 
+
 Research on incarceration has traditionally centered on state-level data: specifically state prison populations or the statewide combined prison and jail population. Using the state as the unit of analysis is sufficient for understanding the broad contours of incarceration in the United States, but it does not provide the level of detail necessary to unpack its causes and consequences. This is because it is largely county officials-judges, prosecutors, people who manage jails-that decide how communities use incarceration (i.e., who is sent to jail and prison, and for how long). Therefore, county-level variability makes for more robust, theoretically-grounded studies of the high rates of incarceration seen across the United States.
 
-For more information on In Our Backyards, see http://www.vera.org/backyards.
 
 ## Data
 Jail construction project data from 2002-2022 is available in [CSV](https://github.com/vera-institute/incarceration_trends/blob/main/incarceration_trends_jail_construction.csv) format. 
 
 Updated numbers of people in local jail or state and federal prison, published in the latest [People in Jail and Prison report](https://www.vera.org/publications/people-in-jail-and-prison-in-2024) for spring 2024 are availabe in [Excel](https://github.com/vera-institute/incarceration_trends/blob/main/People-in-Jail-and-Prison-in-2024) format.  
 
-The county-level data file is available in  [CSV](https://github.com/vera-institute/incarceration_trends/blob/main/incarceration_trends.csv?raw=true) or [Excel](https://github.com/vera-institute/incarceration_trends/blob/main/incarceration_trends.xlsx?raw=true) format.
+The county-level data file is available in  [CSV](https://github.com/vera-institute/incarceration_trends/blob/main/incarceration_trends_county.csv?raw=true) or [Excel](https://github.com/vera-institute/incarceration_trends/blob/main/incarceration_trends_county.xlsx?raw=true) format.
 
-As is the jurisdiction-level data file:  [CSV](https://github.com/vera-institute/incarceration_trends/blob/main/incarceration_trends_jail_jurisdiction.csv?raw=true) or [Excel](https://github.com/vera-institute/incarceration_trends/blob/main/incarceration_trends_jail_jurisdiction.xlsx?raw=true) format.
+As is the state-level data file:  [CSV](https://github.com/vera-institute/incarceration_trends/blob/main/incarceration_trends_state.csv?raw=true) or [Excel](https://github.com/vera-institute/incarceration_trends/blob/main/incarceration_trends_state.xlsx?raw=true) format.
 
 ## Documentation
- [Codebook](https://github.com/vera-institute/incarceration_trends/blob/main/incarceration_trends-Codebook.pdf?raw=true)
+ [Codebook](https://github.com/vera-institute/incarceration_trends/blob/main/Incarceration%20Trends%20Codebook%2005-2025.pdf?raw=true)
 
  [Jail construction codebook](https://github.com/vera-institute/incarceration_trends/blob/main/jail_construction_codebook.pdf?raw=true)
 
-## Methodology
-
-- [Jail data methodology](https://github.com/vera-institute/incarceration_trends/blob/main/Methodology-for-Incarceration-Trends-Project.pdf?raw=true).
 - [Prison data methodology](https://github.com/vera-institute/incarceration_trends/blob/main/Workingpaper_Reconstructing-How-Counties-Contribute-to-State-Prisons.pdf?raw=true).
 
 ## License
@@ -53,10 +51,10 @@ By downloading the data, you hereby agree to all of the terms specified in this 
 
 ## Endmatter
 
-If you have questions, please contact Vera at <trends@vera.org> or Jacob Kang-Brown by mail at 34 35th Street, Suite 4-2A Brooklyn, NY 11232.
+If you have questions, please contact Vera at <trends@vera.org>.
 
 The Vera Institute of Justice works to build and create justice systems that ensure fairness, promote safety, and strengthen communities.
 
-The development of the public-use county- and jurisdiction-level incarceration dataset is funded through the In Our Backyards project by Google.org as part of its Inclusion and Racial Justice work. In Our Backyards is a Vera's research and communications agenda to inform the public dialogue, advance research, and guide change to justice policy and practice on mass incarceration.
+The development of the public-use county- and jurisdiction-level incarceration dataset was originally funded through the In Our Backyards project by Google.org as part of its Inclusion and Racial Justice work. 
 
 Photo credit: Jack Norton. Huerfano County Correctional Facility, built in 1997 and operated as a private prison by Corrections Corporation of America. Closed in 2010. A funding request to re-open the facility by Colorado Department of Corrections was denied by the state in 2018.
