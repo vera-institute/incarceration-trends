@@ -32,9 +32,9 @@ Research on incarceration has traditionally centered on state-level data: specif
 ## Data
 Jail construction project data from 2002-2022 is available in [CSV](https://github.com/vera-institute/incarceration_trends/blob/main/incarceration_trends_jail_construction.csv) format. 
 
-Updated numbers of people in local jail or state and federal prison, published in the latest [People in Jail and Prison report](https://www.vera.org/publications/people-in-jail-and-prison-in-2024) for spring 2024 are availabe in [Excel](https://github.com/vera-institute/incarceration_trends/blob/main/People-in-Jail-and-Prison-in-2024) format.  
+Updated numbers of people in local jail or state and federal prison, published in the latest [People in Jail and Prison report](https://www.vera.org/publications/people-in-jail-and-prison-in-2024) for spring 2024 are availabe in [Excel](https://github.com/vera-institute/incarceration-trends/blob/main/People-in-Jail-and-Prison-in-2024-Data.xlsx) format.  
 
-The county-level data file is available in  [CSV](https://github.com/vera-institute/incarceration_trends/blob/main/incarceration_trends_county.csv?raw=true) or [Excel](https://github.com/vera-institute/incarceration_trends/blob/main/incarceration_trends_county.xlsx?raw=true) format.
+The county-level data file is available in  [CSV](https://github.com/vera-institute/incarceration-trends/blob/main/incarceration_trends_county.csv) or [Excel](https://github.com/vera-institute/incarceration-trends/blob/main/incarceration_trends_county.xlsx) format.
 
 As is the state-level data file:  [CSV](https://github.com/vera-institute/incarceration_trends/blob/main/incarceration_trends_state.csv?raw=true) or [Excel](https://github.com/vera-institute/incarceration_trends/blob/main/incarceration_trends_state.xlsx?raw=true) format.
 
