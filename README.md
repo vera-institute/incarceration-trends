@@ -47,7 +47,7 @@ As is the state-level data file:  [CSV](https://github.com/vera-institute/incarc
 
 ## License
 
-By downloading the data, you hereby agree to all of the terms specified in this [license](https://github.com/vera-institute/incarceration_trends/blob/main/License.md).
+By downloading the data, you hereby agree to all of the terms specified in this [license](https://github.com/vera-institute/incarceration_trends/blob/main/License.pdf).
 
 ## Endmatter
 
