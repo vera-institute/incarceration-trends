@@ -1,7 +1,7 @@
 ![Vera Institute of Justice Logo](https://github.com/vera-institute/incarceration_trends/blob/main/img/vera-logo.png?raw=true)
 
 # Incarceration Trends Dataset
-County-level jail data (1970-2024) and prison data (1983-2019). State-level prison data (2021-2024). Jail construction data (2002-2022).
+County-level jail data (1970-2026) and prison data (1983-2019). State-level jail data (1970-2026) and state-level prison data (1983-2022). Jail construction data (2002-2022).
 
 ![Image: Huerfano County Correctional Facility, built in 1997 and operated as a private prison by Corrections Corporation of America. Closed in 2010.](https://github.com/vera-institute/incarceration_trends/blob/main/img/iob-cfp-banner.jpg?raw=true)
 
@@ -26,6 +26,8 @@ In October 2024, Vera produced a dataset with information on jail construction p
 
 In May 2025, Vera released updated county and state files (version 3) using updated versions of the BJI data supplemented by new data collected through state and local sources. 
 
+In March 2026, Vera released an update to the 2025 dataset (version 3.1). This version of the dataset includes jail population and jail admissions data gathered from local and state websites through 2026, where available. This release also contains supplemental data on regional jails. The release from this version powers the incarceration section of the newly released Incarceration and Inequality Data Explorer, which has been funded by the Gates Foundation. 
+
 Research on incarceration has traditionally centered on state-level data: specifically state prison populations or the statewide combined prison and jail population. Using the state as the unit of analysis is sufficient for understanding the broad contours of incarceration in the United States, but it does not provide the level of detail necessary to unpack its causes and consequences. This is because it is largely county officials-judges, prosecutors, people who manage jails-that decide how communities use incarceration (i.e., who is sent to jail and prison, and for how long). Therefore, county-level variability makes for more robust, theoretically-grounded studies of the high rates of incarceration seen across the United States.
 
 
@@ -34,12 +36,12 @@ Jail construction project data from 2002-2022 is available in [CSV](https://gith
 
 Updated numbers of people in local jail or state and federal prison, published in the latest [People in Jail and Prison report](https://www.vera.org/publications/people-in-jail-and-prison-in-2024) for spring 2024 are availabe in [Excel](https://github.com/vera-institute/incarceration-trends/blob/main/People-in-Jail-and-Prison-in-2024-Data.xlsx) format.  
 
-The county-level data file is available in  [CSV](https://github.com/vera-institute/incarceration-trends/blob/main/incarceration_trends_county.csv) or [Excel](https://github.com/vera-institute/incarceration-trends/blob/main/incarceration_trends_county.xlsx) format.
+The county-level data file is available in [CSV](https://github.com/vera-institute/incarceration-trends/blob/main/incarceration_trends_county.csv) format.
 
-As is the state-level data file:  [CSV](https://github.com/vera-institute/incarceration_trends/blob/main/incarceration_trends_state.csv?raw=true) or [Excel](https://github.com/vera-institute/incarceration_trends/blob/main/incarceration_trends_state.xlsx?raw=true) format.
+As is the state-level data file: [CSV](https://github.com/vera-institute/incarceration_trends/blob/main/incarceration_trends_state.csv?raw=true).
 
 ## Documentation
- [2025 Codebook](https://github.com/vera-institute/incarceration_trends/blob/main/Incarceration%20Trends%20Codebook%2005-2025.pdf?raw=true)
+ [2026 Codebook](https://github.com/vera-institute/incarceration_trends/blob/main/Incarceration%20Trends%20Codebook%2005-2025.pdf?raw=true)
 
  [Jail construction codebook](https://github.com/vera-institute/incarceration_trends/blob/main/jail_construction_codebook.pdf?raw=true)
 
